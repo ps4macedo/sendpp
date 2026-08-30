@@ -43,6 +43,10 @@ PAYLOAD_URLS = (
     "https://github.com/ps4macedo/y2jb-p2jb/releases/download/1.0/P2JB_ASTRO_theme.elf",
     "https://github.com/ps4macedo/y2jb-p2jb/releases/download/1.0/P2JB_ZA_theme.elf",
     "https://github.com/ps4macedo/y2jb-p2jb/releases/download/1.0/TLOU_theme.elf",
+    "https://github.com/ps4macedo/instalador-host-psm-poop2jb/releases/download/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr.elf",
+    "https://github.com/ps4macedo/instalador-host-psm-poop2jb/releases/download/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en.elf",
+    "https://github.com/ps4macedo/instalador-host-psm-poop2jb/releases/download/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-onionhen.elf",
+    "https://github.com/ps4macedo/instalador-host-psm-poop2jb/releases/download/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en.elf",
 )
 
 
