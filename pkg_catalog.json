@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "app": "sendpp",
+  "catalog_version": "2026-08-30",
+  "pkg_sources": [
+    {
+      "key": "ps5-xplorer",
+      "label": "PS5-Xplorer 1.05",
+      "url": "https://pkg-zone.com/download/ps5/LAPY20011/1.05"
+    },
+    {
+      "key": "avatar-changer",
+      "label": "Avatar Changer 1.00",
+      "url": "https://pkg-zone.com/download/ps5/LAPY20016/1.00"
+    },
+    {
+      "key": "ps5-temperature",
+      "label": "PS5 Temperature 1.00",
+      "url": "https://pkg-zone.com/download/ps5/LAPY20012/1.00"
+    },
+    {
+      "key": "fpkg-i",
+      "label": "FPKGi",
+      "url": "https://pkg-zone.com/download/ps5/PKGI13337/latest"
+    },
+    {
+      "key": "hbl",
+      "label": "HBL v0.30",
+      "url": "https://github.com/ps5-payload-dev/websrv/releases/download/v0.30/IV9999-FAKE00000_00-HOMEBREWLOADER01.pkg"
+    },
+    {
+      "key": "youtube-us",
+      "label": "YouTube (US) 1.03",
+      "url": "https://pkg-zone.com/download/ps5/PPSA01650/1.03"
+    },
+    {
+      "key": "netflix-eu",
+      "label": "Netflix (EU)",
+      "url": "https://pkg-zone.com/download/ps5/PPSA01615/6.00"
+    }
+  ]
+}
