@@ -18,7 +18,7 @@ from app.services.payload.payload_url_presentation import (
 
 REMOTE_YOUTUBE_UPDATE_CATALOG_SCHEMA_VERSION = 1
 REMOTE_YOUTUBE_UPDATE_CATALOG_APP = "sendpp"
-REMOTE_YOUTUBE_UPDATE_CATALOG_URL = "https://raw.githubusercontent.com/ps4macedo/sendpp/main/youtube_update_catalog.json"
+REMOTE_YOUTUBE_UPDATE_CATALOG_URL = "https://raw.githubusercontent.com/ps4macedo/sendpp/main/catalogs/youtube_update_catalog.json"
 
 _RELEASE_PATH_RE = re.compile(
     r"/releases/download/(?P<tag>[^/]+)/(?P<asset>[^/?#]+)$",

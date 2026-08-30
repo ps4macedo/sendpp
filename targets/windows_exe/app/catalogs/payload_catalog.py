@@ -9,7 +9,7 @@ from app.services.payload.payload_url_presentation import (
 
 REMOTE_PAYLOAD_CATALOG_SCHEMA_VERSION = 1
 REMOTE_PAYLOAD_CATALOG_APP = "sendpp"
-REMOTE_PAYLOAD_CATALOG_URL = "https://raw.githubusercontent.com/ps4macedo/sendpp/main/payload_catalog.json"
+REMOTE_PAYLOAD_CATALOG_URL = "https://raw.githubusercontent.com/ps4macedo/sendpp/main/catalogs/payload_catalog.json"
 
 
 # -----------------------------------------------------------------------------

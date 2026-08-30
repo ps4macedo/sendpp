@@ -12,7 +12,7 @@ PKG_INSTALL_STATUS_TIMEOUT_SECONDS = 15 * 60
 
 REMOTE_PKG_CATALOG_SCHEMA_VERSION = 1
 REMOTE_PKG_CATALOG_APP = "sendpp"
-REMOTE_PKG_CATALOG_URL = "https://raw.githubusercontent.com/ps4macedo/sendpp/main/pkg_catalog.json"
+REMOTE_PKG_CATALOG_URL = "https://raw.githubusercontent.com/ps4macedo/sendpp/main/catalogs/pkg_catalog.json"
 
 # Fonte fornecida pelo usuário. O aplicativo resolve releases mais novas em runtime.
 KSTUFF_BASE_URL = "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.10/kstuff.elf"
