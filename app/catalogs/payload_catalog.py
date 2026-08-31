@@ -34,6 +34,7 @@ PAYLOAD_URLS = (
     "https://github.com/etaHEN/etaHEN/releases/download/2.5B/etaHEN-2.5B.bin",
     "https://github.com/EchoStretch/kstuff/releases/download/v1.6.7/kstuff.elf",
     "https://github.com/drakmor/ShadowMountPlus/releases/download/1.6test11/ShadowMountPlus_1.6test11.zip",
+    "https://github.com/earthonion/np-fake-signin/releases/download/1.1/np-fake-signin-ps5.elf",
     "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.0/elf-arsenal.elf",
     "https://github.com/ps5-payload-dev/ftpsrv/releases/download/v0.20/ftpsrv-ps5.elf",
     "https://github.com/drakmor/ftpsrv/releases/download/1.15-ng-beta8/ftpsrv-ps5.elf",

@@ -1,5 +1,5 @@
 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./app/__init__.py
-b92b533355c164b5e48bdf99d165ec4005a43f2e351f223b580150038bdf0ff5  ./app/app_meta.py
+d72ea8228ec55fbd7ffcf1256e12320dca317377a8da29a4bce1e7a2f8cd78ae  ./app/app_meta.py
 f5dd3e30084aa21045b88640c9adf514663542fd2230a82df485caa57039bc71  ./app/application.py
 7b734f7175261d3d04394a9ba058e3fb3b3a6fb25f5e73aa83f4a11ea9d11aad  ./app/assets/host_psm/PROFILE.txt
 40c7aa76bb20b76557b292b67150121d84cb1c69609013b6cfdb87ab1397bc2d  ./app/assets/host_psm/blocklist.txt
@@ -62,7 +62,7 @@ bcbe06a4f8f0c8589d3f5b7e8895132b0dd91c58506fd27b76da532f707b9d50  ./app/assets/h
 cac5250fccb0872757f00352079f6763d7ef2fcf3bebc84faeb30a8e7f7bacbe  ./app/assets/host_psm/host_local/p2jb.js
 96c5bb58203a2d54671a1e4fe717822e94882e1a4c5b90a8b06d3d205a285cd6  ./app/assets/host_psm/host_local/p2jb_lk.js
 27419f875b12ae5610383901475f896fd754c94215613ca34a37ed56b675ca16  ./app/assets/host_psm/host_local/p2jb_poops.js
-a0dccabfaa7df08a69de0db8276c72a4e78e484dcc69b91a1846c06b74ba002e  ./app/assets/host_psm/host_local/payloads/Instalador-Host-PSM-pooP2JB.elf
+b81609da1db061165e44541653b95f524c917a3d5a1fca308965b0d821be3178  ./app/assets/host_psm/host_local/payloads/Instalador-Host-PSM-pooP2JB.elf
 de5dd480d12637527ba2d75e35de851adbb59c455293fa32588c492ef6b44b81  ./app/assets/host_psm/host_local/payloads/elfldr-ps5-1360.elf
 618f4b121cd26f2b259ade4fc3a69b3bdb631667758ae63fb9d316b4362015eb  ./app/assets/host_psm/host_local/payloads/kexp_2026_05_25.bin
 3e75453a82ecb8ef3b3bf3e28eace97a01f89fe0b2c84ae3f87f73fadad56ad7  ./app/assets/host_psm/host_local/poops.js
@@ -77,7 +77,7 @@ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./app/bootstra
 28924de84babdea8fc4c3019a6d8cc8c68ca52a2ea69ca5865d40cc74ab51acc  ./app/bootstrap/app_factory.py
 8fe947b7ba77a00cfe32d81f013f593981f608db6da9621b2ad1dbf06c34f268  ./app/bootstrap/dependency_container.py
 edc96713eebe9d3cb70f585bc559126de4ac91b930206edb70a7362804e60dea  ./app/catalogs/__init__.py
-054a080f751867f272f32e4a0792f74c4d73bee9f05bbe41b2786d174fc48e5c  ./app/catalogs/payload_catalog.py
+cb516d98776ddb9053ba5acd3bf15ddf7dea6ef22218a9b0a0b471e27602c49f  ./app/catalogs/payload_catalog.py
 ca04c50cc2e682acec52914e53ca30136255f109d4a8a389ca63da7c21c83c32  ./app/catalogs/pkg_catalog.py
 213d8243a0ac3cc628055874b67e1c7a874115bcddc4e365686f6daef2b7b22a  ./app/catalogs/y2jb_backup_catalog.py
 c9db0550c01b2b6ca1d934954c16c1ab8da114b5eab1c574952354bcece8bfef  ./app/catalogs/youtube_update_catalog.py
@@ -117,7 +117,7 @@ c35d06f1bb40ca480b24f9d1c2ef732f9e378e8c7f90b02555bf56c8a9495d4c  ./app/services
 377a44a769814408ac0fefd70c3596418e7060741b455d1d13e87b85e437e47c  ./app/services/host_psm/http_proxy_server.py
 ac195bc3f0dc175e92a3e05dadcef2c9b4b6b16b5a7b9b44c8646eaa03e25c38  ./app/services/host_psm/https_host_server.py
 4f756985199d7fdee6524a785c2348974db3c553c4350c5b1aa089e936e1c793  ./app/services/host_psm/local_installer_host_service.py
-9671d346d7f9c0b226a5e7beff93ff16336aa49e3edb4a9f6c99f63539f89806  ./app/services/host_psm/runtime_assets.py
+6c3dc2bdd30c6bb9fab6493e7a3be63980dfc942c8cd6716e62dfb7afd90786c  ./app/services/host_psm/runtime_assets.py
 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./app/services/network/__init__.py
 557a79fc12de7b1be3c28af9f78f4a66c6fe902846666f4990cd85babc476c80  ./app/services/network/local_network_discovery_service.py
 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./app/services/payload/__init__.py
@@ -163,9 +163,9 @@ d19bc394939e7d467345640e123c7793cbe7cabb53c596351a48411e3d94b1e5  ./app/ui/widge
 984f8906a2207c69ace780b39f375d9bfcea5fe742c59338b2b21ae827481810  ./app/ui/widgets/pkg_selector.py
 2172a87c69051cd7db67946da89b6d3043e75750cc409c38710a4102e0f5dec8  ./app/ui/widgets/premium_button.py
 b95a2a9c92af0c9fb574ace8aa2ac911a7f82d1899fc4b35fb2ea59c2fb3623c  ./app/ui/widgets/youtube_update_selector.py
-5e369ec5abc790d95d7480eab44e5bd8c8d6f5ab218adb07862f61b8a31997e0  ./build_wsl_offline.bat
-465355aa2189daec9fb324b8855b1ff68e6546b2a9e3eb4ed41a4f67dae5de95  ./build_wsl_runner.sh
-568fdbf0185a41ea0e41b5198e2d9ac1ffba54dd94c4f605e4c3e631ee2c6747  ./buildozer.spec
+1551056c20a0ee1fd12944e5d32a7bca67500e495c15a8ca995fc9f775d9f55f  ./build_wsl_offline.bat
+597a2b46ccedaf422adb1c0f409328da02fbe319a21cb086c8e0e9e68711abca  ./build_wsl_runner.sh
+b5833f384a8e279c7bb484c36f8e3fb3fd172407124347685607bc55a43239d9  ./buildozer.spec
 ab70c6e6ee675075dc194dac9d4e1d410a601d24e3f37f804d02af8985185d17  ./ensure-release-signing.sh
 e2ed4dbac54e09f384a19fc3144e5c9de9d657531afae9a9d60314b292bee097  ./main.py
 a2a87ae9e0bf6d6da5d21e9459a06bcc2da7d15b5098a5df68097227e194fada  ./service/main.py
