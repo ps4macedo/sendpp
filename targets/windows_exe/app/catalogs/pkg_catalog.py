@@ -43,21 +43,6 @@ PKG_CATALOG_ENTRIES = (
         "url": "https://pkg-zone.com/download/ps5/LAPY20012/1.00",
     },
     {
-        "key": "youtube-us",
-        "label": "YouTube (PPSA01650) 01.000.003",
-        "url": "https://pkg-zone.com/download/ps5/PPSA01650/1.03",
-    },
-    {
-        "key": "youtube-ppsa01650-01-000-030",
-        "label": "YouTube (PPSA01650) 01.000.030",
-        "url": "https://github.com/TheWizWikii/PS5-Stuff/releases/download/hombrew/YouTube.app.PPSA01650.version.USA.01.000.030.pkg",
-    },
-    {
-        "key": "netflix-eu",
-        "label": "Netflix (PPSA01615) 6.00",
-        "url": "https://pkg-zone.com/download/ps5/PPSA01615/6.00",
-    },
-    {
         "key": "fpkg-i",
         "label": "FPKGi",
         "url": "https://pkg-zone.com/download/ps5/PKGI13337/latest",
@@ -66,6 +51,16 @@ PKG_CATALOG_ENTRIES = (
         "key": "hbl",
         "label": "HBL v0.30",
         "url": "https://github.com/ps5-payload-dev/websrv/releases/download/v0.30/IV9999-FAKE00000_00-HOMEBREWLOADER01.pkg",
+    },
+    {
+        "key": "youtube-us",
+        "label": "YouTube (US) 1.03",
+        "url": "https://pkg-zone.com/download/ps5/PPSA01650/1.03",
+    },
+    {
+        "key": "netflix-eu",
+        "label": "Netflix (EU)",
+        "url": "https://pkg-zone.com/download/ps5/PPSA01615/6.00",
     },
 )
 
