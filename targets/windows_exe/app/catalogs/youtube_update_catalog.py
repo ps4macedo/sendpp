@@ -35,6 +35,8 @@ _RELEASE_PATH_RE = re.compile(
 # -----------------------------------------------------------------------------
 YOUTUBE_UPDATE_URLS = (
     "https://github.com/ps4macedo/y2jb-p2jb/releases/download/1.0/Y2JB_P2JB_AUTO_PSM.zip",
+    "https://github.com/Gezine/Y2JB/releases/download/1.6/Y2JB_download0_1.6.zip",
+    "https://github.com/itsPLK/ps5-y2jb-autoloader/releases/download/v0.9.1-36381e4/download0.dat",
 )
 
 
