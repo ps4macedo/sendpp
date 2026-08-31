@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "app": "sendpp",
-  "catalog_version": "2026-08-30",
+  "catalog_version": "2026-08-31",
   "pkg_sources": [
     {
       "key": "ps5-xplorer",
