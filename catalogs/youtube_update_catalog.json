@@ -1,10 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "app": "sendpp",
-  "catalog_version": "2026-08-31",
-  "youtube_update_urls": [
-    "https://github.com/ps4macedo/y2jb-p2jb/releases/download/1.0/Y2JB_P2JB_AUTO_PSM.zip",
-    "https://github.com/Gezine/Y2JB/releases/download/1.6/Y2JB_download0_1.6.zip",
-    "https://github.com/itsPLK/ps5-y2jb-autoloader/releases/download/v0.9.1-36381e4/download0.dat"
+  "kind": "youtube_updates",
+  "catalog_version": "2026-10-02",
+  "items": [
+    {
+      "key": "youtube-update-6e0f08acded34275",
+      "url": "https://github.com/ps4macedo/p2jb-relapse/releases/download/1.0/Y2JB_RELAPSE_AUTO_PSM.zip"
+    },
+    {
+      "key": "youtube-update-60f648af1cf03100",
+      "url": "https://github.com/ps4macedo/y2jb-p2jb/releases/download/1.0/Y2JB_P2JB_AUTO_PSM.zip"
+    },
+    {
+      "key": "youtube-update-2024fccce50f7634",
+      "url": "https://github.com/Gezine/Y2JB/releases/download/1.6/Y2JB_download0_1.6.zip"
+    },
+    {
+      "key": "youtube-update-98257e3ba6caad6c",
+      "url": "https://github.com/itsPLK/ps5-y2jb-autoloader/releases/download/v1.0.0-dev-a05c279/download0.dat"
+    }
   ]
 }

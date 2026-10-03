@@ -1,31 +1,116 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "app": "sendpp",
-  "catalog_version": "2026-09-02",
-  "payload_urls": [
-    "https://github.com/ps4macedo/instalador-host-psm-poop2jb/releases/download/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr.elf",
-    "https://github.com/ps4macedo/instalador-host-psm-poop2jb/releases/download/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en.elf",
-    "https://github.com/ps4macedo/instalador-host-psm-poop2jb/releases/download/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-onionhen.elf",
-    "https://github.com/ps4macedo/instalador-host-psm-poop2jb/releases/download/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en.elf",
-    "https://github.com/earthonion/np-fake-signin/releases/download/1.1/np-fake-signin-ps5.elf",
-    "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.10/kstuff.elf",
-    "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7alpha12/ShadowMountPlus_1.7alpha12.zip",
-    "https://github.com/ps5-payload-dev/ftpsrv/releases/download/v0.21.1/ftpsrv-ps5.elf",
-    "https://github.com/drakmor/ftpsrv/releases/download/1.16-ng-test1/ftpsrv-ps5.elf",
-    "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.5.1/pldmgr_v0.5.1.elf",
-    "https://github.com/tsuramatsu1/apr-emu-updater/releases/download/v2.0.5/apr_emu_updater.elf",
-    "https://github.com/matem6/P2JB-Y2JB-Porting/releases/download/2.6/p2jb.js",
-    "https://github.com/Gezine/Y2JB/raw/main/payloads/lapse.js",
-    "https://github.com/aydencharles/onionHEN/releases/download/v0.0.12/OnionHEN.elf",
-    "https://github.com/Gezine/BD-UN-JB/releases/download/1.1/bdj_unpatch_1340.elf",
-    "https://github.com/ArkSama/PS5-Lapy-JB-Daemon/raw/main/lapy_jb_daemon.elf",
-    "https://github.com/drakmor/nanoDNS/releases/download/0.4/nanodns-ps4.elf",
-    "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.0/elf-arsenal.elf",
-    "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.7.0/pegasus_dl.elf",
-    "https://github.com/notmaj0r/CheatRunner/releases/download/v0.17/CheatRunner.elf",
-    "https://github.com/BestPig/BackPork/releases/download/0.1/ps5-backpork.elf",
-    "https://github.com/ps4macedo/y2jb-p2jb/releases/download/1.0/P2JB_ASTRO_theme.elf",
-    "https://github.com/ps4macedo/y2jb-p2jb/releases/download/1.0/TLOU_theme.elf",
-    "https://github.com/ps4macedo/y2jb-p2jb/releases/download/1.0/P2JB_ZA_theme.elf"
+  "kind": "payloads",
+  "catalog_version": "2026-10-02",
+  "items": [
+    {
+      "key": "payload-51aa5c5ddf0a5a0e",
+      "url": "https://github.com/ps4macedo/p2jb-relapse/releases/download/1.0/Y2JB_RELAPSE_theme.elf"
+    },
+    {
+      "key": "payload-d1422c0d1a10e4a1",
+      "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.2.3/Host-PSM-ReLapse-v1.2.3-instala-host-pt.elf"
+    },
+    {
+      "key": "payload-80f9a0d176af3742",
+      "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.2.3/Host-PSM-ReLapse-v1.2.3-instala-host-en.elf"
+    },
+    {
+      "key": "payload-18f32ec762678958",
+      "url": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/raw/refs/heads/main/Internal/payloads/beta/a53_ppr/a53_ppr_install_fast_v15.09.elf"
+    },
+    {
+      "key": "payload-7e8eeb6abc70e2e6",
+      "url": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.11/kstuff.elf"
+    },
+    {
+      "key": "payload-4a89929fff98a324",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta3/ShadowMountPlus_1.7beta3.zip"
+    },
+    {
+      "key": "payload-1e22ef5c502890e5",
+      "url": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/raw/refs/heads/main/Internal/payloads/beta/Kstuff-NG/Kstuff-NG_v1.00.elf"
+    },
+    {
+      "key": "payload-ef705b777ce4b355",
+      "url": "https://github.com/ps5-payload-dev/ftpsrv/releases/download/v0.21.1/ftpsrv-ps5.elf"
+    },
+    {
+      "key": "payload-054d193e5b8b2450",
+      "url": "https://github.com/notmaj0r/ProsperoMgr/releases/download/v1.1/ProsperoMgr.elf"
+    },
+    {
+      "key": "payload-5d185382b495184f",
+      "url": "https://github.com/drakmor/ftpsrv/releases/download/1.16-ng-test1/ftpsrv-ps5.elf"
+    },
+    {
+      "key": "payload-e30ad3fadf8f327e",
+      "url": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.5.2/pldmgr_v0.5.2.elf"
+    },
+    {
+      "key": "payload-8d7c33be4d3043f0",
+      "url": "https://github.com/tsuramatsu1/apr-emu-updater/releases/download/v2.0.6/apr_emu_updater_v2.0.6.elf"
+    },
+    {
+      "key": "payload-8b88f4695af37dd4",
+      "url": "https://github.com/aydencharles/onionHEN/releases/download/v0.0.13/OnionHEN.elf"
+    },
+    {
+      "key": "payload-28f76d01c67f649e",
+      "url": "https://github.com/itsPLK/ps5-pkg-manager/releases/download/v1.4.1/pkg-manager_v1.4.1.elf"
+    },
+    {
+      "key": "payload-22e29f16b58d2dbc",
+      "url": "https://github.com/Gezine/BD-UN-JB/releases/download/1.1/bdj_unpatch_1340.elf"
+    },
+    {
+      "key": "payload-4823760019c40ee3",
+      "url": "https://github.com/ArkSama/PS5-Lapy-JB-Daemon/raw/main/lapy_jb_daemon.elf"
+    },
+    {
+      "key": "payload-e510a5420d84c9c6",
+      "url": "https://github.com/drakmor/nanoDNS/releases/download/0.4/nanodns-ps4.elf"
+    },
+    {
+      "key": "payload-6f902edabb0211d8",
+      "url": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.0/elf-arsenal.elf"
+    },
+    {
+      "key": "payload-804d0df242b0d28e",
+      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.10.1/pegasus_dl.elf"
+    },
+    {
+      "key": "payload-4f9cb9fa661463de",
+      "url": "https://github.com/notmaj0r/CheatRunner/releases/download/v0.17.2/CheatRunner.elf"
+    },
+    {
+      "key": "payload-5e2ab37f585367a9",
+      "url": "https://github.com/earthonion/np-fake-signin/releases/download/1.1/np-fake-signin-ps5.elf"
+    },
+    {
+      "key": "payload-2bd9c59065900f9a",
+      "url": "https://github.com/BestPig/BackPork/releases/download/0.1/ps5-backpork.elf"
+    },
+    {
+      "key": "payload-cc8fdc49a00aaae8",
+      "url": "https://github.com/ps4macedo/y2jb-p2jb/releases/download/1.0/P2JB_ASTRO_theme.elf"
+    },
+    {
+      "key": "payload-59fb486120cfe5c2",
+      "url": "https://github.com/ps4macedo/y2jb-p2jb/releases/download/1.0/P2JB_ZA_theme.elf"
+    },
+    {
+      "key": "payload-eb72b11a343571b0",
+      "url": "https://github.com/ps4macedo/y2jb-p2jb/releases/download/1.0/TLOU_theme.elf"
+    },
+    {
+      "key": "payload-439c83d4da0d1cb1",
+      "url": "https://github.com/matem6/P2JB-Y2JB-Porting/releases/download/2.6/p2jb.js"
+    },
+    {
+      "key": "payload-c0f6b4e595c356f0",
+      "url": "https://github.com/Gezine/Y2JB/raw/main/payloads/lapse.js"
+    }
   ]
 }
