@@ -2,7 +2,7 @@
   "schema_version": 2,
   "app": "sendpp",
   "kind": "payloads",
-  "catalog_version": "2026-10-02",
+  "catalog_version": "2026-10-08",
   "items": [
     {
       "key": "payload-d1422c0d1a10e4a1",
@@ -11,6 +11,15 @@
     {
       "key": "payload-80f9a0d176af3742",
       "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.4.0/Host-PSM-ReLapse-v1.4.0-instala-host-en.elf"
+    },
+    {
+      "key": "payload-aa79b606372f542b",
+      "url": "https://github.com/ps4macedo/sendpp/blob/main/payloads/Retour_vers_le_futur_theme.elf",
+      "name_override": "Retour Vers LE Futur Theme (by @faron_x)"
+    },
+    {
+      "key": "payload-4f5fbc19412a68e6",
+      "url": "https://github.com/ps4macedo/sendpp/blob/main/payloads/Y2JB_ReLapse_Spider_theme.elf"
     },
     {
       "key": "payload-51aa5c5ddf0a5a0e",
@@ -26,35 +35,35 @@
     },
     {
       "key": "payload-4a89929fff98a324",
-      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta3/ShadowMountPlus_1.7beta3.zip"
-    },
-    {
-      "key": "payload-1e22ef5c502890e5",
-      "url": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/raw/refs/heads/main/Internal/payloads/beta/Kstuff-NG/Kstuff-NG_v1.00.elf"
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta4/ShadowMountPlus_1.7beta4.zip"
     },
     {
       "key": "payload-ef705b777ce4b355",
       "url": "https://github.com/ps5-payload-dev/ftpsrv/releases/download/v0.21.1/ftpsrv-ps5.elf"
     },
     {
-      "key": "payload-054d193e5b8b2450",
-      "url": "https://github.com/notmaj0r/ProsperoMgr/releases/download/v1.1/ProsperoMgr.elf"
-    },
-    {
       "key": "payload-5d185382b495184f",
       "url": "https://github.com/drakmor/ftpsrv/releases/download/1.16-ng-test1/ftpsrv-ps5.elf"
-    },
-    {
-      "key": "payload-e30ad3fadf8f327e",
-      "url": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.5.2/pldmgr_v0.5.2.elf"
     },
     {
       "key": "payload-8d7c33be4d3043f0",
       "url": "https://github.com/tsuramatsu1/apr-emu-updater/releases/download/v2.0.6/apr_emu_updater_v2.0.6.elf"
     },
     {
+      "key": "payload-1e22ef5c502890e5",
+      "url": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/raw/refs/heads/main/Internal/payloads/beta/Kstuff-NG/Kstuff-NG_v1.00.elf"
+    },
+    {
+      "key": "payload-054d193e5b8b2450",
+      "url": "https://github.com/notmaj0r/ProsperoMgr/releases/download/v1.1/ProsperoMgr.elf"
+    },
+    {
+      "key": "payload-e30ad3fadf8f327e",
+      "url": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.5.2/pldmgr_v0.5.2.elf"
+    },
+    {
       "key": "payload-8b88f4695af37dd4",
-      "url": "https://github.com/aydencharles/onionHEN/releases/download/v0.0.13/OnionHEN.elf"
+      "url": "https://github.com/aydencharles/onionHEN/releases/download/v0.9.0-beta2/OnionHEN.elf"
     },
     {
       "key": "payload-28f76d01c67f649e",
