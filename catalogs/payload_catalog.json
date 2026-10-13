@@ -5,6 +5,11 @@
   "catalog_version": "2026-10-08",
   "items": [
     {
+  "key": "payload-byepervisor-reborn-1360-autorest-unverified",
+  "url": "https://github.com/Sleepywalker69/Byepervisor-Reborn/raw/b33827357e68636f6a9a7db512621997a893ca77/dist/byepervisor_reborn_1360_autorest_unverified.elf",
+  "name_override": "Byepervisor Reborn 13.60 — AutoRest (unverified)"
+    },
+    {
       "key": "payload-d1422c0d1a10e4a1",
       "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.4.0/Host-PSM-ReLapse-v1.4.0-instala-host-pt.elf"
     },
