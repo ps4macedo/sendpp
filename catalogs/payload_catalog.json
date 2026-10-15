@@ -2,12 +2,11 @@
   "schema_version": 2,
   "app": "sendpp",
   "kind": "payloads",
-  "catalog_version": "2026-10-08",
+  "catalog_version": "2026-10-15",
   "items": [
     {
-  "key": "payload-byepervisor-reborn-1360-autorest-unverified",
-  "url": "https://github.com/Sleepywalker69/Byepervisor-Reborn/raw/b33827357e68636f6a9a7db512621997a893ca77/dist/byepervisor_reborn_1360_autorest_unverified.elf",
-  "name_override": "Byepervisor Reborn 13.60 — AutoRest (unverified)"
+      "key": "payload-634f26ddcf709919",
+      "url": "https://github.com/ps4macedo/sendpp/blob/main/payloads/byepervisor_reborn.elf"
     },
     {
       "key": "payload-d1422c0d1a10e4a1",
@@ -40,7 +39,7 @@
     },
     {
       "key": "payload-4a89929fff98a324",
-      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta4/ShadowMountPlus_1.7beta4.zip"
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta5/ShadowMountPlus_1.7beta5.zip"
     },
     {
       "key": "payload-ef705b777ce4b355",
@@ -64,15 +63,15 @@
     },
     {
       "key": "payload-e30ad3fadf8f327e",
-      "url": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.5.2/pldmgr_v0.5.2.elf"
+      "url": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.6.1/pldmgr_v0.6.1.elf"
     },
     {
       "key": "payload-8b88f4695af37dd4",
-      "url": "https://github.com/aydencharles/onionHEN/releases/download/v0.9.0-beta2/OnionHEN.elf"
+      "url": "https://github.com/aydencharles/onionHEN/releases/download/v0.9.0/OnionHEN.elf"
     },
     {
       "key": "payload-28f76d01c67f649e",
-      "url": "https://github.com/itsPLK/ps5-pkg-manager/releases/download/v1.4.1/pkg-manager_v1.4.1.elf"
+      "url": "https://github.com/itsPLK/ps5-pkg-manager/releases/download/v1.5.1/pkg-manager_v1.5.1.elf"
     },
     {
       "key": "payload-22e29f16b58d2dbc",
@@ -92,11 +91,11 @@
     },
     {
       "key": "payload-804d0df242b0d28e",
-      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.10.1/pegasus_dl.elf"
+      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.11.0/pegasus_dl.elf"
     },
     {
       "key": "payload-4f9cb9fa661463de",
-      "url": "https://github.com/notmaj0r/CheatRunner/releases/download/v0.17.2/CheatRunner.elf"
+      "url": "https://github.com/notmaj0r/CheatRunner/releases/download/v0.18/CheatRunner.elf"
     },
     {
       "key": "payload-5e2ab37f585367a9",
