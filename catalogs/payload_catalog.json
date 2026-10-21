@@ -17,6 +17,10 @@
       "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.4.0/Host-PSM-ReLapse-v1.4.0-instala-host-en.elf"
     },
     {
+      "key": "payload-4f5fbc19412a68e7",
+      "url": "https://github.com/ps4macedo/sendpp/blob/main/payloads/Y2JB_ReLapse_Astro_Bot_theme.elf"
+    },
+    {
       "key": "payload-aa79b606372f542b",
       "url": "https://github.com/ps4macedo/sendpp/raw/refs/heads/main/payloads/Retour_vers_le_futur_theme.elf",
       "name_override": "Retour Vers LE Futur Theme (by @faron_x)"
