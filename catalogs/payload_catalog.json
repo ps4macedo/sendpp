@@ -21,6 +21,11 @@
       "url": "https://github.com/ps4macedo/sendpp/raw/refs/heads/main/payloads/Y2JB_ReLapse_Astro_Bot_theme.elf"
     },
     {
+      "key": "payload-aa79b606372f542c",
+      "url": "https://github.com/ps4macedo/sendpp/raw/refs/heads/main/payloads/Y2JB_ReLapse_Wolverine_theme.elf",
+      "name_override": "Wolverine Theme (by @yaguilaro101)"
+    },
+    {
       "key": "payload-aa79b606372f542b",
       "url": "https://github.com/ps4macedo/sendpp/raw/refs/heads/main/payloads/Retour_vers_le_futur_theme.elf",
       "name_override": "Retour Vers LE Futur Theme (by @faron_x)"
