@@ -2,7 +2,7 @@
   "schema_version": 2,
   "app": "sendpp",
   "kind": "payloads",
-  "catalog_version": "2026-10-15",
+  "catalog_version": "2026-10-22",
   "items": [
     {
       "key": "payload-634f26ddcf709919",
@@ -19,6 +19,11 @@
     {
       "key": "payload-aa79b606372f542c",
       "url": "https://github.com/ps4macedo/sendpp/raw/refs/heads/main/payloads/Y2JB_ReLapse_Astro_Bot_theme.elf"
+    },
+    {
+      "key": "payload-2d3e7d9d3e5f53ff",
+      "url": "https://github.com/rianricardo87/temaps5/raw/refs/heads/main/Y2JB_RELAPSE_PS5_theme.elf",
+      "name_override": "Tema by @rianricardo87"
     },
     {
       "key": "payload-aa79b603672f543c",
