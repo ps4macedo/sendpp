@@ -2,7 +2,7 @@
   "schema_version": 2,
   "app": "sendpp",
   "kind": "youtube_updates",
-  "catalog_version": "2026-10-21",
+  "catalog_version": "2026-10-25",
   "items": [
     {
       "key": "youtube-update-6e0f08acded34276",
@@ -22,7 +22,7 @@
     },
     {
       "key": "youtube-update-98257e3ba6caad6c",
-      "url": "https://github.com/itsPLK/ps5-y2jb-autoloader/releases/download/v1.0.2-254c85f/download0.dat"
+      "url": "https://github.com/itsPLK/ps5-y2jb-autoloader/releases/download/v1.0.3-185cdf8/download0.dat"
     }
   ]
 }

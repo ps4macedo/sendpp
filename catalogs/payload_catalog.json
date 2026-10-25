@@ -2,7 +2,7 @@
   "schema_version": 2,
   "app": "sendpp",
   "kind": "payloads",
-  "catalog_version": "2026-10-22",
+  "catalog_version": "2026-10-25",
   "items": [
     {
       "key": "payload-634f26ddcf709919",
@@ -53,7 +53,7 @@
     },
     {
       "key": "payload-4a89929fff98a324",
-      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta5/ShadowMountPlus_1.7beta5.zip"
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta7/ShadowMountPlus_1.7beta7.zip"
     },
     {
       "key": "payload-ef705b777ce4b355",
@@ -77,7 +77,7 @@
     },
     {
       "key": "payload-e30ad3fadf8f327e",
-      "url": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.6.1/pldmgr_v0.6.1.elf"
+      "url": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.6.3/pldmgr_v0.6.3.elf"
     },
     {
       "key": "payload-8b88f4695af37dd4",
