@@ -2,7 +2,7 @@
   "schema_version": 2,
   "app": "sendpp",
   "kind": "payloads",
-  "catalog_version": "2026-10-25",
+  "catalog_version": "2026-10-30",
   "items": [
     {
       "key": "payload-634f26ddcf709919",
@@ -53,7 +53,7 @@
     },
     {
       "key": "payload-4a89929fff98a324",
-      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta7/ShadowMountPlus_1.7beta7.zip"
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta11/ShadowMountPlus_1.7beta11.zip"
     },
     {
       "key": "payload-ef705b777ce4b355",
