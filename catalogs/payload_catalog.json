@@ -2,12 +2,8 @@
   "schema_version": 2,
   "app": "sendpp",
   "kind": "payloads",
-  "catalog_version": "2026-10-30",
+  "catalog_version": "2026-10-31",
   "items": [
-    {
-      "key": "payload-634f26ddcf709919",
-      "url": "https://github.com/ps4macedo/sendpp/blob/main/payloads/byepervisor_reborn.elf"
-    },
     {
       "key": "payload-d1422c0d1a10e4a1",
       "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.4.1/Host-PSM-ReLapse-v1.4.1-instala-host-pt.elf"
@@ -44,6 +40,10 @@
       "url": "https://github.com/ps4macedo/sendpp/raw/refs/heads/main/payloads/Y2JB_RELAPSE_theme.elf"
     },
     {
+      "key": "payload-634f26ddcf709919",
+      "url": "https://github.com/ps4macedo/sendpp/blob/main/payloads/byepervisor_reborn.elf"
+    },
+    {
       "key": "payload-18f32ec762678958",
       "url": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/raw/refs/heads/main/Internal/payloads/beta/a53_ppr/a53_ppr_install_fast_v15.09.elf"
     },
@@ -54,6 +54,10 @@
     {
       "key": "payload-4a89929fff98a324",
       "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta11/ShadowMountPlus_1.7beta11.zip"
+    },
+    {
+      "key": "payload-b24139f3d58f4255",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.8.1/orbit_store.elf"
     },
     {
       "key": "payload-ef705b777ce4b355",
