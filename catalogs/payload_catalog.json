@@ -92,6 +92,10 @@
       "url": "https://github.com/soniciso1/ps5-linux-loader/releases/download/10.xx-support/ps5-linux-loader-10-13-20261025.elf"
     },
     {
+      "key": "payload-a95800b59d71bfb2",
+      "url": "https://github.com/Wigglez-sudo/12.xx-linux-loader/releases/download/12.xx/ps5-linux-loader-12xx-ONLY-aio.elf"
+    },
+    {
       "key": "payload-8b88f4695af37dd4",
       "url": "https://github.com/aydencharles/onionHEN/releases/download/v0.9.0/OnionHEN.elf"
     },
