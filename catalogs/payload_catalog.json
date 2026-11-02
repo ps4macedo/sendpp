@@ -2,7 +2,7 @@
   "schema_version": 2,
   "app": "sendpp",
   "kind": "payloads",
-  "catalog_version": "2026-11-01",
+  "catalog_version": "2026-11-02",
   "items": [
     {
       "key": "payload-d1422c0d1a10e4a1",
@@ -57,7 +57,7 @@
     },
     {
       "key": "payload-b24139f3d58f4255",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.8.2/orbit_store.elf"
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.8.4/orbit_store.elf"
     },
     {
       "key": "payload-ef705b777ce4b355",
@@ -102,6 +102,10 @@
     {
       "key": "payload-28f76d01c67f649e",
       "url": "https://github.com/itsPLK/ps5-pkg-manager/releases/download/v1.5.1/pkg-manager_v1.5.1.elf"
+    },
+    {
+      "key": "payload-9754b98ac62977cc",
+      "url": "https://github.com/Gezine/BD-JB5/releases/download/2.0/bdj_unpatch_1360.elf"
     },
     {
       "key": "payload-22e29f16b58d2dbc",
