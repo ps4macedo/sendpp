@@ -2,7 +2,7 @@
   "schema_version": 2,
   "app": "sendpp",
   "kind": "payloads",
-  "catalog_version": "2026-11-02",
+  "catalog_version": "2026-11-18",
   "items": [
     {
       "key": "payload-d1422c0d1a10e4a1",
@@ -11,6 +11,10 @@
     {
       "key": "payload-80f9a0d176af3742",
       "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.4.1/Host-PSM-ReLapse-v1.4.1-instala-host-en.elf"
+    },
+    {
+      "key": "payload-c916eaec44ecb8a8",
+      "url": "https://github.com/devchmod/TITAN-CORE/releases/download/v1.0.0/TITAN-CORE-v1.0.elf"
     },
     {
       "key": "payload-aa79b606372f542c",
