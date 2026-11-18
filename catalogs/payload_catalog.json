@@ -5,6 +5,14 @@
   "catalog_version": "2026-11-18",
   "items": [
     {
+      "key": "payload-663744eea5886bab",
+      "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.5.0/Host-PSM-ReLapse-v1.5.0-instala-host-pt.elf"
+    },
+    {
+      "key": "payload-599dc442f276ac4b",
+      "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.5.0/Host-PSM-ReLapse-v1.5.0-instala-host-en.elf"
+    },
+    {
       "key": "payload-d1422c0d1a10e4a1",
       "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.4.1/Host-PSM-ReLapse-v1.4.1-instala-host-pt.elf"
     },
@@ -57,15 +65,15 @@
     },
     {
       "key": "payload-4a89929fff98a324",
-      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta11/ShadowMountPlus_1.7beta11.zip"
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta12/ShadowMountPlus_1.7beta12.zip"
     },
     {
       "key": "payload-b24139f3d58f4255",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.8.4/orbit_store.elf"
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.9.2/orbit_store.elf"
     },
     {
       "key": "payload-ef705b777ce4b355",
-      "url": "https://github.com/ps5-payload-dev/ftpsrv/releases/download/v0.21.1/ftpsrv-ps5.elf"
+      "url": "https://github.com/ps5-payload-dev/ftpsrv/releases/download/v0.22/ftpsrv-ps5.elf"
     },
     {
       "key": "payload-5d185382b495184f",
@@ -81,7 +89,7 @@
     },
     {
       "key": "payload-054d193e5b8b2450",
-      "url": "https://github.com/notmaj0r/ProsperoMgr/releases/download/v1.1/ProsperoMgr.elf"
+      "url": "https://github.com/notmaj0r/ProsperoMgr/releases/download/v1.2.1/ProsperoMgr.elf"
     },
     {
       "key": "payload-e30ad3fadf8f327e",
@@ -89,7 +97,7 @@
     },
     {
       "key": "payload-d906ed89b090f69a",
-      "url": "https://github.com/soniciso1/ps5-linux-loader/releases/download/v2026.10.22-all11-13/ps5-linux-loader.elf"
+      "url": "https://github.com/soniciso1/ps5-linux-loader/releases/download/v2026.11.03-all10-13-pro/ps5-linux-loader-all10-13-20261103-pro.elf"
     },
     {
       "key": "payload-25fbdcdd2bed1694",
@@ -133,7 +141,7 @@
     },
     {
       "key": "payload-4f9cb9fa661463de",
-      "url": "https://github.com/notmaj0r/CheatRunner/releases/download/v0.18/CheatRunner.elf"
+      "url": "https://github.com/notmaj0r/CheatRunner/releases/download/v0.18.1/CheatRunner.elf"
     },
     {
       "key": "payload-5e2ab37f585367a9",
