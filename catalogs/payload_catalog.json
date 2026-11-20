@@ -2,7 +2,7 @@
   "schema_version": 2,
   "app": "sendpp",
   "kind": "payloads",
-  "catalog_version": "2026-11-18",
+  "catalog_version": "2026-11-20",
   "items": [
     {
       "key": "payload-663744eea5886bab",
@@ -61,7 +61,7 @@
     },
     {
       "key": "payload-b24139f3d58f4255",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.9.2/orbit_store.elf"
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.9.5/orbit_store.elf"
     },
     {
       "key": "payload-ef705b777ce4b355",
@@ -90,10 +90,6 @@
     {
       "key": "payload-d906ed89b090f69a",
       "url": "https://github.com/soniciso1/ps5-linux-loader/releases/download/v2026.11.03-all10-13-pro/ps5-linux-loader-all10-13-20261103-pro.elf"
-    },
-    {
-      "key": "payload-25fbdcdd2bed1694",
-      "url": "https://github.com/soniciso1/ps5-linux-loader/releases/download/10.xx-support/ps5-linux-loader-10-13-20261025.elf"
     },
     {
       "key": "payload-a95800b59d71bfb2",
